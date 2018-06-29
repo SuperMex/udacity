@@ -1,3 +1,6 @@
 [submodule "udacity-happy-birthday"]
 	path = udacity-happy-birthday
 	url = https://github.com/SuperMex/udacity-happy-birthday.git
+[submodule "udacity-just-java"]
+	path = udacity-just-java
+	url = https://github.com/SuperMex/udacity-just-java
