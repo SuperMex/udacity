@@ -7,3 +7,6 @@
 [submodule "udacity-practice-set-2"]
 	path = udacity-practice-set-2
 	url = https://github.com/SuperMex/udacity-practice-set-2
+[submodule "udacity-court-counter"]
+	path = udacity-court-counter
+	url = https://github.com/SuperMex/udacity-court-counter
