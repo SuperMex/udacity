@@ -4,9 +4,6 @@
 [submodule "udacity-just-java"]
 	path = udacity-just-java
 	url = https://github.com/SuperMex/udacity-just-java
-[submodule "PracticeSet2"]
-	path = PracticeSet2
-	url = https://github.com/SuperMex/PracticeSet2
 [submodule "udacity-practice-set-2"]
 	path = udacity-practice-set-2
 	url = https://github.com/SuperMex/udacity-practice-set-2
